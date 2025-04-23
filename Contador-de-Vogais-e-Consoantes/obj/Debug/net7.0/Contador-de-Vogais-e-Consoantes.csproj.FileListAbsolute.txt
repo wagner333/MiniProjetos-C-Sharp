@@ -1,0 +1,14 @@
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/bin/Debug/net7.0/Contador-de-Vogais-e-Consoantes
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/bin/Debug/net7.0/Contador-de-Vogais-e-Consoantes.deps.json
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/bin/Debug/net7.0/Contador-de-Vogais-e-Consoantes.runtimeconfig.json
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/bin/Debug/net7.0/Contador-de-Vogais-e-Consoantes.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/bin/Debug/net7.0/Contador-de-Vogais-e-Consoantes.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.AssemblyInfoInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.AssemblyInfo.cs
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.csproj.CoreCompileInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/refint/Contador-de-Vogais-e-Consoantes.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/Contador-de-Vogais-e-Consoantes.genruntimeconfig.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Contador-de-Vogais-e-Consoantes/obj/Debug/net7.0/ref/Contador-de-Vogais-e-Consoantes.dll

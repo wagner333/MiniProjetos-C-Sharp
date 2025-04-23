@@ -1,0 +1,14 @@
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.AssemblyInfoInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.AssemblyInfo.cs
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.csproj.CoreCompileInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/bin/Debug/net7.0/Calculadora-com-Menu
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/bin/Debug/net7.0/Calculadora-com-Menu.deps.json
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/bin/Debug/net7.0/Calculadora-com-Menu.runtimeconfig.json
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/bin/Debug/net7.0/Calculadora-com-Menu.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/bin/Debug/net7.0/Calculadora-com-Menu.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/refint/Calculadora-com-Menu.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/Calculadora-com-Menu.genruntimeconfig.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Calculadora-com-Menu/obj/Debug/net7.0/ref/Calculadora-com-Menu.dll

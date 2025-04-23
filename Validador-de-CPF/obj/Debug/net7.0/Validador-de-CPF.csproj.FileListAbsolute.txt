@@ -1,0 +1,14 @@
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/bin/Debug/net7.0/Validador-de-CPF
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/bin/Debug/net7.0/Validador-de-CPF.deps.json
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/bin/Debug/net7.0/Validador-de-CPF.runtimeconfig.json
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/bin/Debug/net7.0/Validador-de-CPF.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/bin/Debug/net7.0/Validador-de-CPF.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.AssemblyInfoInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.AssemblyInfo.cs
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.csproj.CoreCompileInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/refint/Validador-de-CPF.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/Validador-de-CPF.genruntimeconfig.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Validador-de-CPF/obj/Debug/net7.0/ref/Validador-de-CPF.dll

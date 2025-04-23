@@ -1,0 +1,14 @@
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/bin/Debug/net7.0/Jogo-de-Adivinhação
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/bin/Debug/net7.0/Jogo-de-Adivinhação.deps.json
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/bin/Debug/net7.0/Jogo-de-Adivinhação.runtimeconfig.json
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/bin/Debug/net7.0/Jogo-de-Adivinhação.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/bin/Debug/net7.0/Jogo-de-Adivinhação.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.AssemblyInfoInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.AssemblyInfo.cs
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.csproj.CoreCompileInputs.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/refint/Jogo-de-Adivinhação.dll
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.pdb
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/Jogo-de-Adivinhação.genruntimeconfig.cache
+/home/wagner/Documentos/C#-estudos/tarefas/Jogo-de-Adivinhação/obj/Debug/net7.0/ref/Jogo-de-Adivinhação.dll
